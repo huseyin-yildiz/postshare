@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#128C7E</color>
+    <color name="colorPrimaryDark">#075E54</color>
+    <color name="colorAccent">#25D366</color>
+    <color name="ic_launcher_background">#128C7E</color>
+
+    <color name="bg">#F2F7F6</color>
+    <color name="card">#FFFFFF</color>
+    <color name="divider">#E4EDEB</color>
+
+    <color name="textPrimary">#17211F</color>
+    <color name="textSecondary">#5F7370</color>
+    <color name="textOnPrimary">#FFFFFF</color>
+
+    <color name="statusSuccess">#128C7E</color>
+    <color name="statusError">#C62828</color>
+
+    <color name="linkedinBlue">#0A66C2</color>
+    <color name="xBlack">#111111</color>
+    <color name="instagramPink">#E1306C</color>
+    <color name="facebookBlue">#1877F2</color>
+</resources>

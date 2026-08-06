@@ -1,0 +1,8 @@
+.tools/
+.gradle/
+build/
+app/build/
+local.properties
+build.log
+*.log
+.DS_Store

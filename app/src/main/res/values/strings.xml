@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PostShare</string>
+    <string name="subtitle">Grab a post from LinkedIn, X or Instagram — edit it — share it anywhere.</string>
+    <string name="hint">Message text…</string>
+    <string name="author_default">PostShare</string>
+    <string name="author_posted">Posted by %1$s</string>
+    <string name="send_button">Share to any app</string>
+    <string name="share_to">Share post via</string>
+    <string name="no_app_found">No app found that can receive this.</string>
+    <string name="retry">Retry</string>
+    <string name="status_loading">Fetching post content…</string>
+    <string name="status_ok_author">Post by %1$s loaded</string>
+    <string name="status_ok_image">Post image loaded</string>
+    <string name="status_ok_content">Post content loaded</string>
+    <string name="status_fail">Couldn\'t load the post. You can still send the link as text.</string>
+    <string name="footer">Sharing opens a menu where you pick the app — WhatsApp, Telegram, email and more.</string>
+    <string name="platform_linkedin">LinkedIn</string>
+    <string name="platform_twitter">X</string>
+    <string name="platform_instagram">Instagram</string>
+    <string name="platform_facebook">Facebook</string>
+    <string name="platform_other">Post</string>
+</resources>
