@@ -6,3 +6,4 @@ local.properties
 build.log
 *.log
 .DS_Store
+__pycache__/
